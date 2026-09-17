@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T01:31:13.720Z",
+  "generated_at": "2026-10-31T01:31:15.641Z",
   "items": {
     "math:30": {
       "kind": "math",
@@ -159,6 +159,41 @@
       "last_pushed_at": "2026-09-16T06:28:33.504Z",
       "language": "python",
       "lines": 6
+    },
+    "math:1": {
+      "kind": "math",
+      "id": "1",
+      "title": "Derivatives and Gradients",
+      "difficulty": "easy",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/1",
+      "path": "math/0001-derivatives-and-gradients",
+      "first_solved_at": "2026-09-17T07:32:11.170Z",
+      "last_pushed_at": "2026-09-17T07:32:11.170Z"
+    },
+    "math:5": {
+      "kind": "math",
+      "id": "5",
+      "title": "Gradient Descent Updates",
+      "difficulty": "easy",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/5",
+      "path": "math/0005-gradient-descent-updates",
+      "first_solved_at": "2026-09-17T17:54:33.609Z",
+      "last_pushed_at": "2026-09-17T17:54:33.609Z"
+    },
+    "problem:116": {
+      "kind": "problem",
+      "id": "116",
+      "title": "Derivative of a Polynomial",
+      "difficulty": "easy",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/116",
+      "path": "problems/0116-derivative-of-a-polynomial",
+      "first_solved_at": "2026-09-17T17:59:27.917Z",
+      "last_pushed_at": "2026-09-17T17:59:27.917Z",
+      "language": "python",
+      "lines": 3
     }
   }
 }
