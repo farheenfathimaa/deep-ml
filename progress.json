@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T01:31:15.641Z",
+  "generated_at": "2026-10-31T01:31:17.617Z",
   "items": {
     "math:30": {
       "kind": "math",
@@ -194,6 +194,58 @@
       "last_pushed_at": "2026-09-17T17:59:27.917Z",
       "language": "python",
       "lines": 3
+    },
+    "problem:212": {
+      "kind": "problem",
+      "id": "212",
+      "title": "Confidence Interval for Population Mean",
+      "difficulty": "medium",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/212",
+      "path": "problems/0212-confidence-interval-for-population-mean",
+      "first_solved_at": "2026-09-22T05:14:42.855Z",
+      "last_pushed_at": "2026-09-22T05:14:42.855Z",
+      "language": "python",
+      "lines": 61
+    },
+    "problem:1110": {
+      "kind": "problem",
+      "id": "1110",
+      "title": "Nth-Highest Salary with Ties and NULL",
+      "difficulty": "medium",
+      "category": "Sql",
+      "url": "https://www.deep-ml.com/problems/1110",
+      "path": "problems/1110-nth-highest-salary-with-ties-and-null",
+      "first_solved_at": "2026-09-22T06:10:02.905Z",
+      "last_pushed_at": "2026-09-22T06:10:02.905Z",
+      "language": "sql",
+      "lines": 6
+    },
+    "problem:1107": {
+      "kind": "problem",
+      "id": "1107",
+      "title": "Count rows per group",
+      "difficulty": "easy",
+      "category": "Sql",
+      "url": "https://www.deep-ml.com/problems/1107",
+      "path": "problems/1107-count-rows-per-group",
+      "first_solved_at": "2026-09-22T06:41:39.847Z",
+      "last_pushed_at": "2026-09-22T06:41:39.847Z",
+      "language": "sql",
+      "lines": 5
+    },
+    "problem:1108": {
+      "kind": "problem",
+      "id": "1108",
+      "title": "Average per group",
+      "difficulty": "easy",
+      "category": "Sql",
+      "url": "https://www.deep-ml.com/problems/1108",
+      "path": "problems/1108-average-per-group",
+      "first_solved_at": "2026-09-22T06:42:33.130Z",
+      "last_pushed_at": "2026-09-22T06:42:33.130Z",
+      "language": "sql",
+      "lines": 4
     }
   }
 }
