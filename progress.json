@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T01:31:17.617Z",
+  "generated_at": "2026-10-31T01:31:19.466Z",
   "items": {
     "math:30": {
       "kind": "math",
@@ -246,6 +246,32 @@
       "last_pushed_at": "2026-09-22T06:42:33.130Z",
       "language": "sql",
       "lines": 4
+    },
+    "problem:1109": {
+      "kind": "problem",
+      "id": "1109",
+      "title": "Your first JOIN",
+      "difficulty": "easy",
+      "category": "Sql",
+      "url": "https://www.deep-ml.com/problems/1109",
+      "path": "problems/1109-your-first-join",
+      "first_solved_at": "2026-09-23T05:09:29.674Z",
+      "last_pushed_at": "2026-09-23T05:09:29.674Z",
+      "language": "sql",
+      "lines": 4
+    },
+    "problem:1128": {
+      "kind": "problem",
+      "id": "1128",
+      "title": "Handle Missing Data in pandas (dropna/fillna)",
+      "difficulty": "easy",
+      "category": "Pandas",
+      "url": "https://www.deep-ml.com/problems/1128",
+      "path": "problems/1128-handle-missing-data-in-pandas-dropna-fillna",
+      "first_solved_at": "2026-09-23T05:37:17.253Z",
+      "last_pushed_at": "2026-09-23T05:37:17.253Z",
+      "language": "python",
+      "lines": 17
     }
   }
 }
