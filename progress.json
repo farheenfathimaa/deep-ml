@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T01:31:19.466Z",
+  "generated_at": "2026-10-31T01:31:21.289Z",
   "items": {
     "math:30": {
       "kind": "math",
@@ -272,6 +272,43 @@
       "last_pushed_at": "2026-09-23T05:37:17.253Z",
       "language": "python",
       "lines": 17
+    },
+    "problem:78": {
+      "kind": "problem",
+      "id": "78",
+      "title": "Descriptive Statistics Calculator",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/78",
+      "path": "problems/0078-descriptive-statistics-calculator",
+      "first_solved_at": "2026-09-25T05:43:00.147Z",
+      "last_pushed_at": "2026-09-25T05:43:00.147Z",
+      "language": "python",
+      "lines": 36
+    },
+    "math:18": {
+      "kind": "math",
+      "id": "18",
+      "title": "Descriptive Statistics",
+      "difficulty": "easy",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/18",
+      "path": "math/0018-descriptive-statistics",
+      "first_solved_at": "2026-09-25T06:31:19.860Z",
+      "last_pushed_at": "2026-09-25T06:31:19.860Z"
+    },
+    "problem:1111": {
+      "kind": "problem",
+      "id": "1111",
+      "title": "Top-3 Salaries Per Department",
+      "difficulty": "medium",
+      "category": "Sql",
+      "url": "https://www.deep-ml.com/problems/1111",
+      "path": "problems/1111-top-3-salaries-per-department",
+      "first_solved_at": "2026-09-25T07:39:09.519Z",
+      "last_pushed_at": "2026-09-25T07:39:09.519Z",
+      "language": "sql",
+      "lines": 9
     }
   }
 }

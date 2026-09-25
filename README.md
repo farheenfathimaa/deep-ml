@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**22** solved · 15 problems · 0 labs · 7 math
+**25** solved · 17 problems · 0 labs · 8 math
 
 ![Coverage](./coverage.svg)
 
@@ -16,6 +16,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Cosine Similarity Between Vectors](https://www.deep-ml.com/problems/76) | easy | 2026-09-16 | [solution](problems/0076-calculate-cosine-similarity-between-vectors) |
 | [Count rows per group](https://www.deep-ml.com/problems/1107) | easy | 2026-09-22 | [solution](problems/1107-count-rows-per-group) |
 | [Derivative of a Polynomial](https://www.deep-ml.com/problems/116) | easy | 2026-09-17 | [solution](problems/0116-derivative-of-a-polynomial) |
+| [Descriptive Statistics Calculator](https://www.deep-ml.com/problems/78) | easy | 2026-09-25 | [solution](problems/0078-descriptive-statistics-calculator) |
 | [Dot Product Calculator](https://www.deep-ml.com/problems/83) | easy | 2026-09-16 | [solution](problems/0083-dot-product-calculator) |
 | [Handle Missing Data in pandas (dropna/fillna)](https://www.deep-ml.com/problems/1128) | easy | 2026-09-23 | [solution](problems/1128-handle-missing-data-in-pandas-dropna-fillna) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-09-16 | [solution](problems/0001-matrix-vector-dot-product) |
@@ -27,12 +28,14 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Confidence Interval for Population Mean](https://www.deep-ml.com/problems/212) | medium | 2026-09-22 | [solution](problems/0212-confidence-interval-for-population-mean) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-09-16 | [solution](problems/0009-matrix-times-matrix) |
 | [Nth-Highest Salary with Ties and NULL](https://www.deep-ml.com/problems/1110) | medium | 2026-09-22 | [solution](problems/1110-nth-highest-salary-with-ties-and-null) |
+| [Top-3 Salaries Per Department](https://www.deep-ml.com/problems/1111) | medium | 2026-09-25 | [solution](problems/1111-top-3-salaries-per-department) |
 
 ## Math
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
 | [Derivatives and Gradients](https://www.deep-ml.com/math-problems/1) | easy | 2026-09-17 | [solution](math/0001-derivatives-and-gradients) |
+| [Descriptive Statistics](https://www.deep-ml.com/math-problems/18) | easy | 2026-09-25 | [solution](math/0018-descriptive-statistics) |
 | [Gradient Descent Updates](https://www.deep-ml.com/math-problems/5) | easy | 2026-09-17 | [solution](math/0005-gradient-descent-updates) |
 | [Matrix Basics](https://www.deep-ml.com/math-problems/9) | easy | 2026-09-08 | [solution](math/0009-matrix-basics) |
 | [ML Workflow Basics](https://www.deep-ml.com/math-problems/30) | easy | 2026-09-08 | [solution](math/0030-ml-workflow-basics) |
