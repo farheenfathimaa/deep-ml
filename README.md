@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**29** solved · 20 problems · 0 labs · 9 math
+**30** solved · 20 problems · 0 labs · 10 math
 
 ![Coverage](./coverage.svg)
 
@@ -44,6 +44,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [ML Workflow Basics](https://www.deep-ml.com/math-problems/30) | easy | 2026-09-08 | [solution](math/0030-ml-workflow-basics) |
 | [Vector Operations](https://www.deep-ml.com/math-problems/7) | easy | 2026-09-08 | [solution](math/0007-vector-operations) |
 | [Inverse and Rank](https://www.deep-ml.com/math-problems/12) | medium | 2026-10-31 | [solution](math/0012-inverse-and-rank) |
+| [Law of Large Numbers and Central Limit Theorem](https://www.deep-ml.com/math-problems/23) | medium | 2026-10-31 | [solution](math/0023-law-of-large-numbers-and-central-limit-theorem) |
 | [Matrix Multiplication](https://www.deep-ml.com/math-problems/10) | medium | 2026-09-08 | [solution](math/0010-matrix-multiplication) |
 | [Vector Norms and Linear Independence](https://www.deep-ml.com/math-problems/8) | medium | 2026-09-08 | [solution](math/0008-vector-norms-and-linear-independence) |
 
