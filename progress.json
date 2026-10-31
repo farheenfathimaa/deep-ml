@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T01:31:23.208Z",
+  "generated_at": "2026-10-31T01:31:25.145Z",
   "items": {
     "math:30": {
       "kind": "math",
@@ -322,6 +322,43 @@
       "last_pushed_at": "2026-09-28T17:58:04.233Z",
       "language": "sql",
       "lines": 6
+    },
+    "math:12": {
+      "kind": "math",
+      "id": "12",
+      "title": "Inverse and Rank",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/12",
+      "path": "math/0012-inverse-and-rank",
+      "first_solved_at": "2026-10-31T01:12:25.133Z",
+      "last_pushed_at": "2026-10-31T01:12:25.133Z"
+    },
+    "problem:8": {
+      "kind": "problem",
+      "id": "8",
+      "title": "Calculate 2x2 Matrix Inverse",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/8",
+      "path": "problems/0008-calculate-2x2-matrix-inverse",
+      "first_solved_at": "2026-10-31T01:23:07.330Z",
+      "last_pushed_at": "2026-10-31T01:23:07.330Z",
+      "language": "python",
+      "lines": 12
+    },
+    "problem:342": {
+      "kind": "problem",
+      "id": "342",
+      "title": "Demonstrate Law of Large Numbers with Sampling",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/342",
+      "path": "problems/0342-demonstrate-law-of-large-numbers-with-sampling",
+      "first_solved_at": "2026-10-31T01:30:27.479Z",
+      "last_pushed_at": "2026-10-31T01:30:27.479Z",
+      "language": "python",
+      "lines": 16
     }
   }
 }
