@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T01:37:57.917Z",
+  "generated_at": "2026-11-01T01:54:32.562Z",
   "items": {
     "math:30": {
       "kind": "math",
@@ -370,6 +370,19 @@
       "path": "math/0023-law-of-large-numbers-and-central-limit-theorem",
       "first_solved_at": "2026-10-31T01:37:57.269Z",
       "last_pushed_at": "2026-10-31T01:37:57.269Z"
+    },
+    "problem:1127": {
+      "kind": "problem",
+      "id": "1127",
+      "title": "Filter, Group, and Aggregate a DataFrame (Top-10 by Metric)",
+      "difficulty": "medium",
+      "category": "Pandas",
+      "url": "https://www.deep-ml.com/problems/1127",
+      "path": "problems/1127-filter-group-and-aggregate-a-dataframe-top-10-by-metric",
+      "first_solved_at": "2026-11-01T01:54:31.949Z",
+      "last_pushed_at": "2026-11-01T01:54:31.949Z",
+      "language": "python",
+      "lines": 8
     }
   }
 }
